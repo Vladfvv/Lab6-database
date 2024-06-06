@@ -1,0 +1,15 @@
+C:\VisualStudio\Project1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\VisualStudio\Project1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\VisualStudio\Project1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\VisualStudio\Project1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\VisualStudio\Project1\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\VisualStudio\Project1\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\VisualStudio\Project1\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\VisualStudio\Project1\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\VisualStudio\Project1\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\VisualStudio\Project1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\VisualStudio\Project1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\VisualStudio\Project1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\VisualStudio\Project1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\VisualStudio\Project1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\VisualStudio\Project1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
